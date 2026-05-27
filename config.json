@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdpdate",
+        "uuid": 17268240,
+        "checksum": "dy4gyy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
